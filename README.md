@@ -29,4 +29,5 @@ HTML Tutorial
 - Styles
   - [HTML Styles](https://www.w3schools.com/html/html_styles.asp)
   - [HTML Formating](https://www.w3schools.com/html/html_formatting.asp)
+  - [HTML Colors](https://www.w3schools.com/html/html_colors.asp)
 
