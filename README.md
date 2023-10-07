@@ -3,6 +3,8 @@ HTML Tutorial
 
 01-Introduction
 
+Live site for some demonstratin issues can be found [here](https://eranyser.github.io/HTML/)
+
 - In order to serve static files to the browser we need http server. We can install simple http-server from:
   - Install [http-server](https://www.npmjs.com/package/http-server) 
   -  a better option: VSCode has a [Live Server Extention](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). After installing, appears at the bottom right coriner with name *Go Live*. The benefits of this is that it watches changes while editing in VSCode.
@@ -30,4 +32,5 @@ HTML Tutorial
   - [HTML Styles](https://www.w3schools.com/html/html_styles.asp)
   - [HTML Formating](https://www.w3schools.com/html/html_formatting.asp)
   - [HTML Colors](https://www.w3schools.com/html/html_colors.asp)
+  - [HTML CSS](https://www.w3schools.com/html/html_css.asp)
 
